@@ -7,7 +7,7 @@ This is a repository meant to capture my projects of Deep Learning. It includes 
 
 1. Neural network
  ![](NN.png)
- Project Dataset - https://github.com/palakasomani/Deep-learning/tree/master/Bike-Share-Data-Udacity-master
+ https://github.com/palakasomani/Deep-learning/tree/master/first-neural-network
  
 2. Object Detection
  ![](Object%20detection.jpg)
