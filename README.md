@@ -9,10 +9,10 @@ This is a repository meant to capture my projects of Deep Learning. It includes 
  ![](NN.png)
  https://github.com/palakasomani/Deep-learning/tree/master/first-neural-network
  
-2. Object Detection
- ![](Object%20detection.jpg)
+2. Object Detection\
+  ![](Object%20detection.jpg)
 
-https://github.com/palakasomani/Deep-learning/blob/master/Project%202.ipynb
+https://github.com/palakasomani/Deep-learning/blob/master/Project%202.ipynb\
 
-3. Tv Script Generation
+3. Tv Script Generation\
  ![](tv%20scripts.jpg)
