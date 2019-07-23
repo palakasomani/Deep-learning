@@ -6,3 +6,13 @@ This is a repository meant to capture my projects of Deep Learning. It includes 
 ## Projects
 
 1. Neural network
+ ![](NN.png)
+ Project Dataset - https://github.com/palakasomani/Deep-learning/tree/master/Bike-Share-Data-Udacity-master
+ 
+2. Object Detection
+ ![](Object%20detection.jpg)
+
+
+
+3. Tv Script Generation
+ ![](tv%20scripts.jpg)
