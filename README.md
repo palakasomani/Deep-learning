@@ -16,3 +16,5 @@ https://github.com/palakasomani/Deep-learning/blob/master/Project%202.ipynb\
 
 3. Tv Script Generation\
  ![](tv%20scripts.jpg)
+
+4. Face generation
