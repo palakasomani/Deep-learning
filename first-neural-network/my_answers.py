@@ -61,7 +61,7 @@ class NeuralNetwork(object):
             X: features batch
 
         '''
-        #### Implement the forward pass here ####
+        ##### Implement the forward pass here ####
         ### Forward pass ###
         # TODO: Hidden layer - Replace these values with your calculations.
         hidden_inputs = np.dot(X,self.weights_input_to_hidden) # signals into hidden layer
