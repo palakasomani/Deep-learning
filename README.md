@@ -23,8 +23,13 @@ https://github.com/palakasomani/Deep-learning/tree/master/Tv%20Script
 
 4. Face generation
 
-![](Generate_faces.jpg)
+![](Generate_faces.jpeg)
+
+https://github.com/palakasomani/Deep-learning/tree/master/Face%20generation
 
 5. Deploying a Sentiment Analysis Model.
+
+https://github.com/palakasomani/Deep-learning/tree/master/Deploying%20a%20sentiment%20analysis%20model
+
 
 
