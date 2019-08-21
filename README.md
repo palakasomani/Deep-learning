@@ -5,16 +5,18 @@ This is a repository meant to capture my projects of Deep Learning. It includes 
 
 ### Projects
 
-1. Neural network
+1. Predicting Bike Sharing Patterns
  ![](NN.png)
  https://github.com/palakasomani/Deep-learning/tree/master/first-neural-network
  
-2. Object Detection\
+2. Dog Breed Classifier
   ![](Object%20detection.jpg)
 
 https://github.com/palakasomani/Deep-learning/blob/master/Project%202.ipynb\
 
-3. Tv Script Generation\
+3. Tv Script Generation
  ![](tv%20scripts.jpg)
 
 4. Face generation
+
+5. Deploying a Sentiment Analysis Model.
